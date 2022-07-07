@@ -46,4 +46,4 @@ I am a 1st Year BSIT Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nathan-the-coder&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-the-coder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
