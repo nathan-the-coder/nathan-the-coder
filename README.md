@@ -18,6 +18,12 @@
 </div>
 
 ### :woman_technologist: About Me :
+I am a 1st Year BSIT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
 
+- :telescope: I’m studying and learning more about Programming.
 
+- :seedling: Exploring Web Development.
 
+- :zap: In my free time, I try to do some Programming and contributing to open source.
+
+- :mailbox: How to reach me: [![Facebook](https://img.shields.io/badge/-Nathaniel-blue?style=flat&logo=Facebook&logoColor=white)](your-linkedin-url)
