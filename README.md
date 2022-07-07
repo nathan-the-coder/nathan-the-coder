@@ -26,4 +26,4 @@ I am a 1st Year BSIT Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :zap: In my free time, I try to do some Programming and contributing to open source.
 
-- :mailbox: How to reach me: [![Facebook](https://img.shields.io/badge/-Nathaniel-blue?style=flat&logo=Facebook&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Facebook](https://img.shields.io/badge/-Nathaniel-blue?style=flat&logo=Facebook&logoColor=white)](https://facebook.com)
