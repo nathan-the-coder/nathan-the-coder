@@ -22,7 +22,7 @@ I am a 1st Year BSIT Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :telescope: I’m studying and learning more about Programming.
 
-- :seedling: Exploring Web Development.
+- :seedling: Exploring Software Development.
 
 - :zap: In my free time, I try to do some Programming and contributing to open source.
 
