@@ -18,7 +18,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a 1st Year BSIT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
+I am a 1st Year BSIT Student from Philippines.
 
 - :telescope: I’m studying and learning more about Programming.
 
