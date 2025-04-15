@@ -18,11 +18,11 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a 1st Year BSIT Student from Philippines.
+I am a Hobbyist Programmer and a Freelancer from the Philippines.
 
-- :telescope: I’m studying and learning more about Programming.
+- :telescope: I’m continously learning more about Programming.
 
-- :seedling: Exploring Software Development.
+- :seedling: Exploring Web Development.
 
 - :zap: In my free time, I try to do some Programming and contributing to open source.
 
