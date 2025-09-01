@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React and NodeJS<br>🎯 Goals: Learn React in 3 weeks and have an In-depth understanding of NodeJS after 2 weeks</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React and NodeJS<br>🎯 Goals: Finish the project I am currently commissioned with and learn more about web design with bootstrap and Focused in school and Ace subjects. </p>
 
 ###
 
