@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React and NodeJS<br>🎯 Goals: Finish the project I am currently commissioned with and learn more about web design with bootstrap and Focused in school and Ace subjects. </p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning PHP and Full stack development<br>🎯 Goals: Finish the project I am currently commissioned with and learn more about web design with bootstrap and Focused in school and Ace subjects. </p>
 
 ###
 
