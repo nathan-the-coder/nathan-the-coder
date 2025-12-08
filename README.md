@@ -1,5 +1,5 @@
 <h1 align="center">Nathaniel Ramos | Freelance Full-Stack Developer 💻</h1>
-<p align="center">Empowering businesses with scalable and robust solutions</p>
+<p align="center">Building innovative solutions through full-stack development and efficient backend systems.</p>
 
 <p align="center">🌟 Baggao, Cagayan, Philippines</p>
 
