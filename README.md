@@ -8,7 +8,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I am a passionate <strong>Software Developer</strong> with <strong>3+ years of professional experience</strong>. I specialize in high-performance <strong>Java backend development</strong>, intuitive user interfaces with <strong>React</strong>, and creating scalable end-to-end solutions. My goal is to deliver clean and efficient code that solves real-world problems, empowers businesses, and enhances user experiences.
+  I am a passionate <strong>Software Developer</strong> with <strong>3+ years of professional experience</strong>. I specialize in <strong>Frontend Development</strong>, intuitive user interfaces with <strong>React</strong>, and creating scalable end-to-end solutions. My goal is to deliver clean and efficient code that solves real-world problems, empowers businesses, and enhances user experiences.
 </p>
 
 ---
