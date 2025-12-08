@@ -1,45 +1,73 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Nathaniel Ramos | Freelance Full-Stack Developer 💻</h1>
+<p align="center">Baggao, Cagayan, Philippines</p>
+
+---
+
+<h2 align="center">🚀 Passionate about building robust and scalable applications.</h2>
 
 ###
 
-<p align="left">My name is Nathaniel Ramos, and I'm a Freelance Web Developer and Hobbyist Programmer, from the Philippines</p>
+<p align="center">
+  I am a dedicated <strong>Software Developer</strong> with <strong>3+ years of professional experience</strong> specializing in high-performance <strong>Java backend development</strong> and versatile full-stack solutions. While pursuing my BSIT degree, I focus on delivering clean, secure, and efficient code that powers enterprise-level systems. My core expertise lies in designing microservice architectures and developing modern web interfaces.
+</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🛠️ My Core Technology Stack</h2>
+
+<table align="left">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br><strong>Java</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" /><br><strong>Spring Boot</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /><br><strong>Postgres</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /><br><strong>React</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /><br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br><strong>Python</strong>
+    </td>
+  </tr>
+</table>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning PHP and Full stack development<br>🎯 Goals: Finish the project I am currently commissioned with and learn more about web design with bootstrap and Focused in school and Ace subjects. </p>
+<h2 align="left">📈 Recent Projects & Portfolio Highlights</h2>
+
+<p align="left">
+  Below are some key projects I have recently delivered, demonstrating my range from robust CLI tools to comprehensive MERN stack applications.
+</p>
+
+* <strong>[SK Monitoring System (MERN Stack)](https://github.com/nathan-the-coder/sk-monitoring-system):</strong> A comprehensive system for local government federation monitoring. *Showcases full-stack JavaScript (MERN).*
+* <strong>[Todo API (Flask)](https://github.com/nathan-the-coder/todo-api-flask):</strong> Built a scalable, clean RESTful API for task management using Python and Flask. *Showcases Python Backend design.*
+* <strong>[Task Tracker CLI](https://github.com/nathan-the-coder/task-tracker-cli):</strong> A powerful command-line interface tool for daily task management and tracking. *Demonstrates utility development and Python proficiency.*
+* <strong>[Unit Converter App](https://github.com/nathan-the-coder/unit-converter-app):</strong> Simple yet robust web application for unit conversion, ensuring precision and usability. *Highlights front-end development with TypeScript.*
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💬 Connect & Collaborate</h2>
 
-###
+<p align="left">
+  Whether it's discussing a complex microservice architecture, needing a freelance developer for your next project, or collaborating on a new open-source Java module—I'd love to connect!
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+* <strong>Portfolio:</strong> <a href="http://devb.io/nathan-the-coder">devb.io/nathan-the-coder</a>
+* <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nathaniel-ramos-656138276">Nathaniel Ramos</a>
+* <strong>Email:</strong> (Consider adding a professional contact email here)
 
-</div>
+---
 
-###
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nathan-the-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Nathaniel Ramos Profile Views" />
+</p>
