@@ -55,9 +55,9 @@ A terminal-based command-line tool for seamless daily task management.
 </p>
 
 <ul>
-  <li><strong>Portfolio:</strong> <a href="http://devb.io/nathan-the-coder">devb.io/nathan-the-coder</a></li>
+  <li><strong>Portfolio:</strong> <a href="https://nathan-the-coder.github.io">Nathaniel Ramos</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nathaniel-ramos-656138276">Nathaniel Ramos</a></li>
-  <li><strong>Email:</strong> nathan.dev@example.com</li>
+  <li><strong>Email:</strong> nathanielramos726@gmail.com</li>
 </ul>
 
 ---
